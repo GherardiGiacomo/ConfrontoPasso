@@ -1,7 +1,7 @@
 <h1> Titolo </h1>
 <h3>Esplorazione dei dati dell'accelerometro: confronto tra camminate con e senza plantari </h3> <br>
 <h1> Obiettivi </h1> <br>
-Lo scopo di questo progetto è quello di confrontare i dati acquisiti <i>( tramite l'applicazione <b>Sensor Logger</b>) </i>da diversi percorsi della stessa durata (~ 2 minuti), con e senza l'utilizzo di plantari ortopedici .<br> In particolare,l'analisi è stata effettuata sul sensore accelerometro, per esaminare le variazioni nell'accelerazione durante le attività. 
+Lo scopo di questo progetto è quello di confrontare i dati acquisiti <i>( tramite l'applicazione <b>Sensor Logger</b> <i>(https://github.com/tszheichoi/awesome-sensor-logger)</i>i> ) </i>da diversi percorsi della stessa durata (~ 2 minuti), con e senza l'utilizzo di plantari ortopedici .<br> In particolare,l'analisi è stata effettuata sul sensore accelerometro, per esaminare le variazioni nell'accelerazione durante le attività. 
 <br><br><br>Gli obiettivi principali che mi sono posto sono:<br>
     <ul> <li> Comparare le caratteristiche dell'accelerazione registrate durante la camminata su tapis roulant con e senza l'uso di plantari ortopedici </li>
      <li> Comparare le caratteristiche dell'accelerazione registrate durante la salita e la discesa delle scale,  con e senza l'uso di plantari ortopedici </li>  
